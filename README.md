@@ -1,6 +1,3 @@
-Aqui está o conteúdo do arquivo `README.md`:
-
-```markdown
 # Conversor Prolog
 
 Este projeto é um sistema de conversão desenvolvido como parte de um trabalho acadêmico para demonstrar o uso da **Programação Funcional** utilizando Prolog.
@@ -55,5 +52,3 @@ Ademar Perfol
    ```prolog
    ?- menu.
    ```
-
----
